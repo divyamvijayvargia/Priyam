@@ -87,8 +87,8 @@ const About = () => {
                 className="bg-white rounded-lg overflow-hidden shadow-lg"
               >
                 <img
-                  src={member.image}
-                  alt={member.name}
+                  // src={member.image}
+                  // alt={member.name}
                   className="w-full h-64 object-cover"
                 />
                 <div className="p-6 text-center">

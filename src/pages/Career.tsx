@@ -29,7 +29,7 @@ const Career = () => {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold mb-4">Why Join TechCorp?</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Join Priyam?</h2>
             <p className="text-gray-600">Discover the benefits of working with us</p>
           </div>
 
